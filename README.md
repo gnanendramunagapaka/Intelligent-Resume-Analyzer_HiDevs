@@ -83,7 +83,7 @@ Intelligent-Resume-Analyzer_HiDevs/
 Clone the repository and set up requirements:
 
 ```bash
-git clone https://github.com/gnanendramunagapaka/Intelligent-Resume-Analyzer_HiDevs.git
+git clone https://github.com/gnanendramunagapaka/Intelligent-Resume-Analyzer_HiDevs
 cd Intelligent-Resume-Analyzer_HiDevs
 
 pip install -r requirements.txt
