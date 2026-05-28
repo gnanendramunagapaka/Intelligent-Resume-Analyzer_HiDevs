@@ -1,0 +1,16 @@
+{
+  "job_title": "Machine Learning Engineer",
+  "required_skills": [
+    "Python",
+    "SQL",
+    "Machine Learning",
+    "Git"
+  ],
+  "preferred_skills": [
+    "TensorFlow",
+    "Docker",
+    "NLP",
+    "PyTorch"
+  ],
+  "min_experience_years": 4
+}
